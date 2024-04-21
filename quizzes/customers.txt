@@ -1,0 +1,2 @@
+houbjbui,$2a$10$eLDyWR/X4u/ZgKLMdriKauZds7cKMe6feJC3RRSHsRrmtQYK6FdwS,houbjbui
+john,$2a$10$CxIPa/KjCoDsqjtJD/C1feu8xDn9d71dDnSlREKWVV/Bw4gHf9z9e,john
